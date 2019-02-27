@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.xml.ws.Response;
 import java.util.*;
-
+//222
 @Controller
 @RequestMapping("kaoshi")
 public class KAOSHIController {
